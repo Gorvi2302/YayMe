@@ -2,7 +2,7 @@
 main()
 {
 printf("MENU  \n 1.Pizza,Rs.239  \n 2.Burger,Rs.129  \n 3.Pasta,Rs.179  \n 4.French Fries,Rs.99  \n 5.Sandwich,Rs.149  \n Pick an item number: ");
-int ch;
+short int ch;
 scanf("%hd",&ch);
 switch(ch)
 {
